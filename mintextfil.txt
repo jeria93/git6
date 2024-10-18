@@ -1,4 +1,4 @@
-Första ändringar
+ändrar på remote och lokalt
 
 
 ändrar text genom github
